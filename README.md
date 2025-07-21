@@ -15,3 +15,8 @@ in this project i made use of excel for data cleaning, data manipulation, and vi
 
 ![1000118833](https://github.com/user-attachments/assets/230d2c45-20c1-4c7d-8184-09507903db9f)
 
+![1000118861](https://github.com/user-attachments/assets/e8749c74-5040-43ee-96f8-a6fe8c42aa7b)
+
+![1000118862](https://github.com/user-attachments/assets/be0827e5-7033-4dcd-8252-ab00ed119b0b)
+
+
